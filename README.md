@@ -18,13 +18,13 @@ I am an undergraduate Systems and Telecommunications Engineering student at Univ
 
 ## 🛠️ Languages & Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
+<div align="center">
+<h2">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=jeronimoayala&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/jeronimoayalacastaño)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=jeronimoacastañoyalacastaño&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
+
 
 <br>
 

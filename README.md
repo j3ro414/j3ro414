@@ -21,8 +21,8 @@ I am an undergraduate Systems and Telecommunications Engineering student at Univ
 <div align="center">
 <h2">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=jeronimoayala&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/jeronimoayalacastaño)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=jeronimoacastañoyalacastaño&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-stats.vercel.app/api?username=jeronimoayala&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/jeronimoayala)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=jeronimoayala&theme=material-palenight)](https://github.com/Elanza-48)
 </div>
 
 
